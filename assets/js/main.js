@@ -5,6 +5,3 @@ const color = prompt( 'Favourite color:', 'Nero' );
 const number = 21.0;
 
 document.getElementById('password').innerHTML = `${ name + surname + color + number }`;
-
-
-
